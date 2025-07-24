@@ -7,7 +7,7 @@ dential validation
 * 549803e Change app.js in master
 * d632e7b Initial commit
 
-This is a git reflog history
+Git reflog history for my git exam
 
 a6b55b9 (HEAD -> master, origin/master, feature-login) HEAD@{0}: merge feature-login: Fast-forward
 549803e HEAD@{1}: checkout: moving from feature-login to master
